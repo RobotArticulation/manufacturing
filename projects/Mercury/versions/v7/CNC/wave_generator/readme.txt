@@ -3,7 +3,7 @@ Pocket side tooling:
 1) 6mm end mill
 2) Centre drill (3mm)
 3) 2.5mm drill
-4) 6mm drill
+4) 5.8mm drill
 
 Bearing side:
 
